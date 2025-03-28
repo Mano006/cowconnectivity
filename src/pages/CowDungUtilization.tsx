@@ -91,7 +91,7 @@ const CowDungUtilization = () => {
     {
       id: 5,
       title: 'Caution for Vegetables',
-      content: 'When using cow dung for vegetable gardens, ensure it's well-composted to avoid pathogens.',
+      content: "When using cow dung for vegetable gardens, ensure it's well-composted to avoid pathogens.",
     },
   ];
 

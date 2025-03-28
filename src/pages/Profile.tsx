@@ -78,7 +78,7 @@ const Profile = () => {
     {
       id: 'community',
       title: 'Community Discussions',
-      description: 'Updates from forums and discussions you're participating in',
+      description: "Updates from forums and discussions you're participating in",
       enabled: true,
     },
   ];

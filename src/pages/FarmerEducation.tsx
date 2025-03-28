@@ -1,3 +1,4 @@
+
 import React, { useState } from 'react';
 import { Button } from '@/components/ui/button';
 import { Card, CardContent, CardFooter } from '@/components/ui/card';
@@ -79,7 +80,7 @@ const FarmerEducation = () => {
       avatar: 'https://i.pravatar.cc/100?img=1',
       date: '2 days ago',
       replies: 34,
-      excerpt: 'I recently acquired two Sahiwal cows and I'm looking for advice on breeding them for optimal milk production...',
+      excerpt: "I recently acquired two Sahiwal cows and I'm looking for advice on breeding them for optimal milk production...",
     },
     {
       id: 2,
@@ -88,7 +89,7 @@ const FarmerEducation = () => {
       avatar: 'https://i.pravatar.cc/100?img=2',
       date: '1 week ago',
       replies: 28,
-      excerpt: 'The summer heat is affecting my cows' appetite. What traditional feed supplements can help during this season?',
+      excerpt: "The summer heat is affecting my cows' appetite. What traditional feed supplements can help during this season?",
     },
     {
       id: 3,
@@ -97,7 +98,7 @@ const FarmerEducation = () => {
       avatar: 'https://i.pravatar.cc/100?img=3',
       date: '3 days ago',
       replies: 15,
-      excerpt: 'I've started producing cow dung planters and organic fertilizer. Looking for ideas to market these products locally...',
+      excerpt: "I've started producing cow dung planters and organic fertilizer. Looking for ideas to market these products locally...",
     },
   ];
 
